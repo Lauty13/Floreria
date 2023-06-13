@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'floreria',
         'USER': 'postgres',
-        'PASSWORD': '2372010822',
+        'PASSWORD': 'gestion123',#'PASSWORD': '2372010822',
         'HOST': 'localhost',
         'PORT': '5432'
     }
